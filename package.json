@@ -1,0 +1,26 @@
+{
+  "name": "@shortercode/result",
+  "version": "1.0.0",
+  "description": "A simple result library for typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest ./result.test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shortercode/result.git"
+  },
+  "keywords": [
+    "typescript",
+    "result"
+  ],
+  "author": "shortercode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shortercode/result/issues"
+  },
+  "homepage": "https://github.com/shortercode/result#readme",
+  "devDependencies": {
+    "vitest": "^4.0.18"
+  }
+}
